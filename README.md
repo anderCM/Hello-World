@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse Hello World</b></h3>
